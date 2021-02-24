@@ -1,0 +1,15 @@
+{
+  "uid": "woYjN8MH7mWOfh6SwcCZL3QX2bH2",
+  "Email": "test@genie.com",
+  "Name": "JD",
+  "Business_Name": "BName",
+  "Mobile": 918000000,
+  "Personal_Price": 42,
+  "Enterprise_Price": 64,
+  "Account_Status": false,
+  "Personal_App_ID": "price_1IDWdjJfPaVmMPuKug3fEqnt",
+  "Enterprise_App_ID": "e_app_5",
+  "repository": "genieiotiot/sample-reseller",
+  "Reseller_Page": "http://github.com/test",
+  "ToUpdate": "DB Updated. Updating Page"
+}
